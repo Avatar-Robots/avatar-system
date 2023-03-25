@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<QCARInfo>
+    <TargetSet version="36.0" toolVersion="v5.6.0-24-g3608ad5">
+        <ModelTarget name="Yumi" targetId="890b298e6424484891f479bad516c36e" version="13.0" toolVersion="v5.6.0-24-g3608ad5" bbox="-0.135242 0.000026 -0.100178 0.361010 0.399936 0.471126" trackingMode="car" upVector="0.0 0.0 1.0" optimizeTrackingFor="default" realisticTextures="no" />
+    </TargetSet>
+    <Assembly name="Yumi" assemblyId="484031bfff1c41bc8c63c3155d91c022">
+        <Part name="Yumi" translation="0 0 0" rotation="AD: 0 0 1 0" />
+        <EntryPoint name="(none)" trained="yes" />
+    </Assembly>
+</QCARInfo>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<QCARInfo>
+    <TargetSet version="36.0" toolVersion="v5.6.0-24-g3608ad5">
+        <ModelTarget name="Chair" targetId="ca26c19fe336470793038a364938c36d" version="13.0" toolVersion="v5.6.0-24-g3608ad5" bbox="-0.254193 -0.569406 -0.036258 0.258490 0.231881 0.499497" trackingMode="scan" upVector="0.0 1.0 0.0" optimizeTrackingFor="default" realisticTextures="yes" />
+    </TargetSet>
+    <Assembly name="Chair" assemblyId="1518a263e1c24823b25f927c8b6884ea">
+        <Part name="Chair" translation="0 0 0" rotation="AD: 0 0 1 0" />
+        <EntryPoint name="(none)" trained="yes" />
+    </Assembly>
+</QCARInfo>
